@@ -2,7 +2,7 @@
 
 Хочу развивать свои навыки, создавать интересные и полезные приложения. Стремлюсь менять свою жизнь и жизнь окружающих меня людей к лучшему.
 
-Контакты: [e-mail](mailto:job@vhlv.ru) и [Telegram](https://t.me/username328)
+Контакты: [e-mail](mailto:job@vhlv.ru) и [Telegram](https://t.me/avhlv)
 #### Мой стек:
 ![HTML5](https://img.shields.io/badge/-HTML5-141130?style=for-the-badge&logo=HTML5&logoColor=FF0000)
 ![CSS3](https://img.shields.io/badge/-CSS3-141130?style=for-the-badge&logo=CSS3&logoColor=009900)
